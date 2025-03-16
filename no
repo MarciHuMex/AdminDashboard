@@ -1,0 +1,29 @@
+[33mcommit 3e2f19edde6956b9feecbcbb6a7b81bcbcb26962[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MarciHuMex <151879261+MarciHuMex@users.noreply.github.com>
+Date:   Sun Feb 23 18:52:49 2025 +0100
+
+    First tow done
+
+[33mcommit f788239c0055833de41507e048baa5b02ecded58[m
+Author: MarciHuMex <151879261+MarciHuMex@users.noreply.github.com>
+Date:   Sun Feb 23 15:29:32 2025 +0100
+
+    layout starts to look good
+
+[33mcommit e9d35eed1796dc4a1b0808f8504f1042050f5a5f[m
+Author: MarciHuMex <151879261+MarciHuMex@users.noreply.github.com>
+Date:   Sat Feb 8 16:14:12 2025 +0100
+
+    html more or less fone
+
+[33mcommit bdf838f32d1bd28dced5ef97eb3499f68e576611[m
+Author: MarciHuMex <151879261+MarciHuMex@users.noreply.github.com>
+Date:   Sat Feb 8 10:19:04 2025 +0100
+
+    Created files
+
+[33mcommit bc400886d15c266c14335b6a5d7745f02ac765a6[m
+Author: MarciHuMex <151879261+MarciHuMex@users.noreply.github.com>
+Date:   Sat Feb 8 10:09:32 2025 +0100
+
+    Initial commit
